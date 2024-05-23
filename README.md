@@ -1,5 +1,6 @@
 
-<h1 align ="center "  ># Hi there, I'm Abhay Ayare! 👋</h1>
+
+<h1  align ="center " style="color: #4882d4;"  ># Hi there, I'm Abhay Ayare! 👋</h1>
 
 
 <p align ="center" ><img align ="center" src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg" alt="Header Image"  width="850"></p>
