@@ -3,7 +3,8 @@
 
 I'm a software enthusiast from India, passionate about learning and exploring different programming languages and technologies. Here's a bit about me:
 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.pixabay.com/photo/2023/11/21/13/29/ai-generated-8403412_1280.jpg)"/>
+<img  align= "right" src="![image](https://github.com/AbhayAyare/AbhayAyare/assets/168357471/956775ae-edca-4acf-967c-399bccc6a1f3)
+" alt="Coding" width="400" >
 
 - 🌱 I'm currently learning Python, Java, and JavaScript.
 - 🚀 I enjoy working on projects that challenge me and allow me to expand my knowledge.
@@ -33,6 +34,13 @@ Here are the programming languages and technologies I'm familiar with:
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/abhayayare29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/abhayayare29" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/abhay6116/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/abhay6116/" height="30" width="40" /></a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhayayare&show_icons=true&locale=en&layout=compact" alt="abhayayare" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhayayare&show_icons=true&locale=en" alt="abhayayare" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhayayare&" alt="abhayayare" /></p>
+
 Let's build something amazing together! 😊
 
 
