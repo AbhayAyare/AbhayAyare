@@ -3,7 +3,7 @@
 <h1  align ="center " style="color: #4882d4;"  ># Hi there, I'm Abhay Ayare! 👋</h1>
 
 
-<p align ="center" ><img align ="center" src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg" alt="Header Image"  width="850"></p>
+<p align ="center" ><img align ="center" src="https://qph.cf2.quoracdn.net/main-qimg-eb404726133d268b649c5d077ab6e860.webp" alt="Header Image"  width="950" height ="300"></p>
 
 <h2 align ="center">I’m a student passionate about programming and constant learning. Currently, I am studying the third year of a programming degree in india , where I’m building the solid foundations for my career in the world of technology. I’m always excited to explore new technologies and challenges, while working on projects that allow me to apply my skills and expand my knowledge.</h2>
 
