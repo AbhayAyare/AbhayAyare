@@ -143,6 +143,7 @@ achievements = {
 ```
 }
 
+
 ## 📈 Current Learning Journey
 
 ```mermaid
@@ -154,13 +155,13 @@ graph LR
     E --> F[Generative AI]
     F --> G[Advanced AI Research]
     
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#45b7d1
-    style D fill:#96ceb4
-    style E fill:#feca57
-    style F fill:#ff9ff3
-    style G fill:#54a0ff
+    style A fill:#ff7f50,stroke:#333,stroke-width:2px
+    style B fill:#6a5acd,stroke:#333,stroke-width:2px
+    style C fill:#20b2aa,stroke:#333,stroke-width:2px
+    style D fill:#ffa07a,stroke:#333,stroke-width:2px
+    style E fill:#ffb6c1,stroke:#333,stroke-width:2px
+    style F fill:#87cefa,stroke:#333,stroke-width:2px
+    style G fill:#32cd32,stroke:#333,stroke-width:2px
 ```
 ---
 
