@@ -1,30 +1,6 @@
-# 💫 Abhay Ayare - AI/ML Developer & Data Science Enthusiast
-````markdown
+# 💫 Abhay Ayare 
+### AI/ML Developer | Data Science Enthusiast | Electronics Engineering Student
 
-
-<div align="center">
-  <img src="https://github.com/AbhayAyare/AbhayAyare/blob/main/assets/github-header-image.png?raw=true" alt="GitHub Banner"/>
-</div>
-
-🚀 *Transforming Ideas into Intelligent Solutions*
-
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Abhay Ayare"
-        self.role = "AI/ML Developer"
-        self.education = "B.Tech E&TC Engineering"
-        self.university = "KIT's College of Engineering, Kolhapur"
-        self.passion = "Building AI-powered solutions"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
-        
-me = DataScientist()
-me.say_hi()
-````
-
----
 
 <div align="center">
 
@@ -33,7 +9,30 @@ me.say_hi()
 
 </div>
 
----
+## 👋 About Me
+
+```python
+class AboutMe:
+    def __init__(self):
+        self.name = "Abhay Sanjay Ayare"
+        self.education = "B.Tech in Electronics & Telecommunication Engineering"
+        self.college = "KIT's College of Engineering, Kolhapur (2021-2025)"
+        self.cgpa = "7.3"
+        self.interests = ["AI/ML", "Computer Vision", "Data Science", "Deep Learning"]
+        self.current_focus = "Building intelligent systems that solve real-world problems"
+    
+    def get_skills(self):
+        return {
+            "programming": ["Python", "C++", "SQL", "JavaScript"],
+            "ml_frameworks": ["TensorFlow", "OpenCV", "YOLO", "Scikit-learn"],
+            "data_tools": ["Pandas", "NumPy", "Matplotlib", "PowerBI"],
+            "tools": ["Git", "VS Code", "Streamlit", "Docker"]
+        }
+
+me = AboutMe()
+````
+
+
 
 ## 📊 GitHub Stats & Analytics
 
