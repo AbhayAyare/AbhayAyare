@@ -1,6 +1,5 @@
 # 💫 Abhay Ayare 
-### AI/ML Developer | Data Science Enthusiast | Electronics Engineering Student
-
+### Entry-Level Data Scientist | ML Engineer (Fresher)
 
 <div align="center">
 
