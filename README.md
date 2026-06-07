@@ -33,21 +33,7 @@ me = AboutMe()
 
 
 
-## 📊 GitHub Stats & Analytics
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=AbhayAyare\&show_icons=true\&theme=radical\&hide_border=true\&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayAyare\&layout=compact\&theme=radical\&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbhayAyare\&theme=radical\&hide_border=true)
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=AbhayAyare\&theme=react-dark\&bg_color=0d1117\&hide_border=true\&area=true)
-
-![](https://github-profile-trophy.vercel.app/?username=AbhayAyare\&theme=radical\&no-bg=true\&no-frame=true\&row=1\&column=6)
-
-</div>
-
----
 
 ## 🛠️ Tech Stack & Superpowers
 
